@@ -1,2 +1,2 @@
-#comments go here
+//comments go here
 console.log('hooba')
