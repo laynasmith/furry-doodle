@@ -1,0 +1,25 @@
+div{
+    border-radius:5;
+    border:4 solid black;
+    height:10;
+    width: 100;
+    background-color: red;
+
+}
+
+#header{
+    position:fixed;
+    z-index:1;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
+
+#footer{
+    clear:both;
+}
